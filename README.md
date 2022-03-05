@@ -4,10 +4,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  👋&nbsp; Hi there! <b>I'm studying frontend</b><br/>
+Have a nice day<br/><br/>
 </p>
 
 ### 💪 Skills
