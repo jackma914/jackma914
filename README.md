@@ -1,6 +1,6 @@
 <p>
   👋&nbsp; Hi there! <b>I'm studying to become a developer.</b><br/>
-Have a nice day 🌝<br/><br/>
+           Have a nice day 🌝<br/><br/>
 </p>
 
 ### 💪 Skills
@@ -8,16 +8,8 @@ Have a nice day 🌝<br/><br/>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
-
-#### Web Front-End
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-</p>
-
-#### Web Back-End
-
 <p>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
