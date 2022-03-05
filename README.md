@@ -1,6 +1,6 @@
 <p>
   <a href="mailto:jackma914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jackma914@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:https://jackma914.github.io/" target="_blank"><img src="https://img.shields.io/badge/https://BLOG-B5B5B6?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="mailto:https://jackma914.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-B5B5B6?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 
 <p>
