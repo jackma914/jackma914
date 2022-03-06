@@ -1,3 +1,7 @@
+    <a href="mailto:https://jackma914.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-B5B5B6?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="mailto:jackma914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jackma914@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
 <p>
   👋&nbsp; Hi there! <b>I'm studying to become a developer.</b><br/>
            Have a nice day 🌝<br/><br/>
